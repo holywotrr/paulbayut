@@ -5,6 +5,6 @@ from tkinter import messagebox
 root = tk.Tk()
 root.withdraw()
 
-messagebox.showinfo("Hello", "Paul bayut 😂")
+messagebox.showinfo("pakyu", "paul bayut")
 
 root.destroy()
